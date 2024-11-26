@@ -1,0 +1,170 @@
+CSS for feedback buttons
+/* body {
+    zoom: 90%;  
+} */
+
+.st-emotion-cache-jmw8un.eeusbqq1 {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-indent: -9999px;
+}
+
+/* sidebar */
+.st-emotion-cache-1gv3huu{
+    background-color: #202123;
+}
+
+.e1f1d6gn4{
+    color: #000000;
+}
+
+.st-emotion-cache-1r4qj8v {
+    color: rgb(255 255 255);
+}
+
+.st-emotion-cache-1inwz65 {
+    color: rgb(255 255 255);
+}
+
+/* .st-bv{
+    color: rgb(0, 0, 0);
+} */
+
+h3{
+    color: rgb(255 255 255);
+}
+
+h4{
+    color: rgb(255 255 255);
+}
+
+h5{
+    color: rgb(255 255 255);
+    font-size: 20px;
+}
+
+/* p {
+    color: rgb(0, 0, 0);
+} */
+
+.e1nzilvr5{
+    color: rgb(98, 97, 97);
+}
+
+.st-emotion-cache-1h6yrjv{
+    background-color: rgba(0, 0, 0, 0.484);
+}
+
+.st-emotion-cache-jkfxgf p{
+    color: rgb(255 255 255);
+}
+
+hr {
+    border-bottom: 1px solid rgba(236, 236, 238, 0.2);
+}
+
+/* .st-e4 {
+    background-color: rgb(17 17 17 / 81%);
+} */
+
+/* .st-au {
+    background-color: rgba(17, 17, 17, 0.552);
+} */
+
+.text-with-bg {
+    color: white;
+    background-color: #1c2e4a;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.st-emotion-cache-v2soli{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border: 1px solid rgba(0, 0, 0, 0.216);
+}
+
+.st-emotion-cache-1ny7cjd {
+    background-color: rgba(92, 89, 89, 0.003);
+    color: rgb(250, 246, 246);
+    border: 1px solid rgba(255, 255, 255, 0.216);
+}
+
+.stSpinner {
+    position: fixed;
+    bottom: 20px;
+    z-index: 10;
+}
+
+.st-emotion-cache-1ru4d5d, .st-emotion-cache-139wi93 {
+    max-width: 70rem;
+}
+
+.st-emotion-cache-1dp5vir {
+    background-image: linear-gradient(90deg, rgb(255, 0, 0), rgb(148, 189, 246));
+}
+
+.st-emotion-cache-1ghhuty {
+    background-color: #87CEEB;
+}
+
+.st-co, .st-cn, .st-cm, .st-cm {
+    border-bottom-color: rgba(28, 131, 225);
+    border-top-color: rgba(28, 131, 225);
+    border-right-color: rgba(28, 131, 225);
+    border-left-color: rgba(28, 131, 225);
+}
+
+.stButton>button {
+    background-color: #272626b5;
+    color: white;
+}
+
+/* CSS for feedback buttons */
+.feedback-buttons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.feedback-buttons button {
+    margin: 0 10px;  /* Adjust the horizontal margin as needed */
+}
+
+.citation-header {
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.citation-text {
+    margin: 5px 0;
+}
+
+.citation-link {
+    color: #1c2e4a;
+    text-decoration: underline;
+}
+
+.follow-up-questions {
+    margin-top: 20px;
+    font-style: italic;
+}
+
+.session-id {
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.clear-chat-info {
+    color: red;
+    font-weight: bold;
+}
+
+.sidebar {
+    background-color: linear-gradient(90deg, rgb(255, 0, 0), rgb(148, 189, 246));
+}
+
+.assistant-message{
+    color: rgb(0, 0, 0);
+}
